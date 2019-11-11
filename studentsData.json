@@ -1,0 +1,4 @@
+{
+    "Account1": {"ActNo": "000-98-0001", "firstName": "James","typeOfAccount":"Savings" }, 
+        "Account2":{ "ActNo": "000-98-0003", "firstName": "Jeffrey","typeOfAccount":"Cheking" }
+}
